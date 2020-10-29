@@ -12,7 +12,7 @@ an auction repository and client applications. The system supports the following
 * Bid author identity and anonymity: Bids should be linked to subjects using their Portuguese Citizen Card. However, submitted
 bids should remain anonymous until the end of the auction.
 
-• Honesty assurance: The auction repository must provide public access to all auctions and their bids, either finished or still active, and provide evidences of its honesty on each answer to a client request. Furthermore, the auction repository cannot have access to any kind of information that may enable it to act differently to different clients.
+* Honesty assurance: The auction repository must provide public access to all auctions and their bids, either finished or still active, and provide evidences of its honesty on each answer to a client request. Furthermore, the auction repository cannot have access to any kind of information that may enable it to act differently to different clients.
 
 ## Auction Manager
 
