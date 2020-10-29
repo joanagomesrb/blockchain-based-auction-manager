@@ -34,6 +34,3 @@ For each bid added to an auction, the Auction Client stores its receipt in non-v
 ## Dependencies:
 * [cryptography](https://cryptography.io): ciphers, encryption, decryption, key support, etc
 * [PyKCS11](https://bitbucket.org/PyKCS11/pykcs11): PKCS\#11 python interface for smart card
-
-
-
